@@ -9,7 +9,7 @@ from PIL import Image, ImageTk
 bg_color='#171616'
 window=Tk()
 window.geometry('1200x600')
-window.title("Extinction")
+window.title("Xtinction")
 window.config(bg=bg_color)
 
 folders=set() #Using a set so we dont have the same element twice
